@@ -1,0 +1,15 @@
+c:\users\brainbug\documents\visual studio 2010\Projects\AES-Encrypt-Decrypt\AES-Encrypt-Decrypt\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\brainbug\documents\visual studio 2010\Projects\AES-Encrypt-Decrypt\AES-Encrypt-Decrypt\obj\x86\Debug\MainWindow.baml
+c:\users\brainbug\documents\visual studio 2010\Projects\AES-Encrypt-Decrypt\AES-Encrypt-Decrypt\obj\x86\Debug\MainWindow.g.cs
+c:\users\brainbug\documents\visual studio 2010\Projects\AES-Encrypt-Decrypt\AES-Encrypt-Decrypt\obj\x86\Debug\App.g.cs
+c:\users\brainbug\documents\visual studio 2010\Projects\AES-Encrypt-Decrypt\AES-Encrypt-Decrypt\obj\x86\Debug\AES-Encrypt-Decrypt_MarkupCompile.cache
+c:\users\brainbug\documents\visual studio 2010\Projects\AES-Encrypt-Decrypt\AES-Encrypt-Decrypt\obj\x86\Debug\AES-Encrypt-Decrypt.g.resources
+c:\users\brainbug\documents\visual studio 2010\Projects\AES-Encrypt-Decrypt\AES-Encrypt-Decrypt\obj\x86\Debug\AES_Encrypt_Decrypt.Properties.Resources.resources
+c:\users\brainbug\documents\visual studio 2010\Projects\AES-Encrypt-Decrypt\AES-Encrypt-Decrypt\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\brainbug\documents\visual studio 2010\Projects\AES-Encrypt-Decrypt\AES-Encrypt-Decrypt\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\brainbug\documents\visual studio 2010\Projects\AES-Encrypt-Decrypt\AES-Encrypt-Decrypt\bin\Debug\AES-Encrypt-Decrypt.exe
+c:\users\brainbug\documents\visual studio 2010\Projects\AES-Encrypt-Decrypt\AES-Encrypt-Decrypt\bin\Debug\AES-Encrypt-Decrypt.pdb
+c:\users\brainbug\documents\visual studio 2010\Projects\AES-Encrypt-Decrypt\AES-Encrypt-Decrypt\obj\x86\Debug\AES-Encrypt-Decrypt.exe
+c:\users\brainbug\documents\visual studio 2010\Projects\AES-Encrypt-Decrypt\AES-Encrypt-Decrypt\obj\x86\Debug\AES-Encrypt-Decrypt.pdb
+E:\Eigene Dateien\Projekte\AES-Encrypt-Decrypt\AES-Encrypt-Decrypt\obj\x86\Debug\AES-Encrypt-Decrypt.exe
+E:\Eigene Dateien\Projekte\AES-Encrypt-Decrypt\AES-Encrypt-Decrypt\obj\x86\Debug\AES-Encrypt-Decrypt.pdb
